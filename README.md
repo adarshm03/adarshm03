@@ -1,4 +1,4 @@
-<img src="hero.svg" width="100%" alt="Adarsh Banner" />
+<img src="hero.html" width="100%" alt="Adarsh Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
