@@ -19,21 +19,29 @@
 ---
 
 ## About
-
+<p>
 adarsh@linux:~$ whoami
 Fullstack Developer | Linux-first
-
+</p><p>
 adarsh@linux:~$ focus
 DevOps • Backend • AI • Systems
-
+</p><p>
 adarsh@linux:~$ editor
 Neovim (primary) | VSCode (backup)
-
+</p><p>
 adarsh@linux:~$ philosophy
 Build → Break → Optimize
+</p>
+## Languages and Tools I Know
 
-Languages and Tools I Know
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" /> <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" /> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres,neovim,vim,vscode,blender,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" />
+</p>
+
 
 ░█▀▄░█▀▀░█░█░█▀▀░█▀▀░█▀▄
 ░█▀▄░█▀▀░█▀█░█▀▀░█▀▀░█▀▄
