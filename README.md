@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39E09B&center=true&vCenter=true&width=500&lines=>_SYSTEM_ONLINE;>_Code+%E2%80%A2+Linux+%E2%80%A2+AI;>_Fullstack+Developer;>_Not+a+vibecoder.+Just+a+coder." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39E09B&center=true&vCenter=true&width=500&lines=>_SYSTEM_ONLINE;>_Code+%E2%80%A2+Linux+%E2%80%A2+AI;>_Fullstack+Developer;." alt="Typing SVG" />
 
 <br><br>
 
