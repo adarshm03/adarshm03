@@ -33,13 +33,14 @@ Neovim (primary) | VSCode (backup)
 adarsh@linux:~$ philosophy
 Build → Break → Optimize
 ```
+## Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,py,php,rust,go,html,css" />
+## Frameworks & Infrastructure
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,aws,docker,linux,git" />
+## Tools & Creative
+<img src="https://skillicons.dev/icons?i=neovim,vim,vscode,unreal,blender,figma,pr,ae,ps,ai" /> <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=ea7600" /> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=for-the-badge&logo=blender&logoColor=ea7600" />
+## Quote
+<p><b>discipline sharpens the blade
+code sharpens the mind<b></p>
 
-## Languages and Tools I Know
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres,neovim,vim,vscode,blender,figma" /> </p> <p> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" /> </p>
-
-## quote
-<p>
-discipline sharpens the blade
-code sharpens the mind </p>
-
-<img src="footer.svg" width="100%" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2500&color=00FF00&center=false&vCenter=true&width=750&lines=>_WARNING:+UNAUTHORIZED_ENTITY_DETECTED;>_TARGET_IS_WANDERING_OFF_PATH..." /> <img src="footer.svg" width="100%" alt="Footer" /> 
