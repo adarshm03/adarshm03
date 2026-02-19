@@ -34,7 +34,7 @@ adarsh@linux:~$ philosophy
 Build → Break → Optimize
 ```
 
-##Languages and Tools I Know
+## Languages and Tools I Know
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres,neovim,vim,vscode,blender,figma" /> </p> <p> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" /> </p>
 
 discipline sharpens the blade
