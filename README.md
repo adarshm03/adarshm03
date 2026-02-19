@@ -1,4 +1,4 @@
-<video src="banner.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com/adarshm03/adarshm03/raw/main/banner.mp4" autoplay loop muted playsinline width="100%"></video>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
