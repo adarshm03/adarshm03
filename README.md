@@ -1,75 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:052b05&height=180&section=header&text=Adarsh&fontSize=70&fontAlignY=40&fontColor=00ff00&desc=Building.%20Breaking.%20Learning.&descAlignY=65&descSize=18&animation=twinkling" width="100%" />
+<svg width="100%" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
 
-<br><br>
+  <defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>_SYSTEM_ONLINE;>_ACCESS_GRANTED:+Adarsh;>_Code+|+Linux+|+AI;>_Fullstack+Developer" alt="Typing SVG" />
+    <!-- Animated Gradient Background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03140E">
+        <animate attributeName="stop-color" values="#03140E;#052b05;#03140E" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#000000">
+        <animate attributeName="stop-color" values="#000000;#001a12;#000000" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
-<br><br>
+    <!-- Haki Glow -->
+    <radialGradient id="hakiGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FF7F" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00FF7F" stop-opacity="0"/>
+    </radialGradient>
 
-[![Linktree](https://img.shields.io/badge/LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=000000&color=000000)](https://linktr.ee/adarshmalagond)
+  </defs>
 
-</div>
+  <!-- Background -->
+  <rect width="1000" height="320" fill="url(#bgGradient)" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <!-- Moving Light Sweep -->
+  <rect x="-300" y="0" width="300" height="320" fill="#00FF7F" opacity="0.03">
+    <animate attributeName="x" values="-300;1200" dur="10s" repeatCount="indefinite"/>
+  </rect>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39E09B&center=true&vCenter=true&width=300&lines=IDENTITY_LOGS" alt="Identity" />
-</div>
+  <!-- Floating Particles -->
+  <circle cx="100" cy="80" r="2" fill="#00FF7F">
+    <animate attributeName="cx" values="100;900" dur="12s" repeatCount="indefinite"/>
+  </circle>
 
-```bash
-[+] STATUS     : Student and Fullstack Developer
-[+] OBJECTIVE  : Exploring the depths of Code, Linux, and AI
-[+] ARSENAL    : Neovim (The daily driver), VSCode (When required)
-[+] PHILOSOPHY : I learn by building things, and I understand them by breaking them
+  <circle cx="300" cy="250" r="2" fill="#00FF7F">
+    <animate attributeName="cy" values="250;100;250" dur="9s" repeatCount="indefinite"/>
+  </circle>
 
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <circle cx="700" cy="120" r="2" fill="#00FF7F">
+    <animate attributeName="cx" values="700;200;700" dur="11s" repeatCount="indefinite"/>
+  </circle>
 
-<div align="center">
+  <!-- Haki Pulse -->
+  <circle cx="500" cy="140" r="90" fill="url(#hakiGlow)">
+    <animate attributeName="r" values="80;115;80" dur="4s" repeatCount="indefinite"/>
+  </circle>
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D2000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D300%26lines%3DTECH_ARSENAL" alt="Arsenal" />
+  <!-- Name Glow Shadow -->
+  <text x="50%" y="150"
+        text-anchor="middle"
+        fill="#00FF7F"
+        font-family="monospace"
+        font-size="60"
+        letter-spacing="10"
+        opacity="0.15">
+    ADARSH
+  </text>
 
+  <!-- Main Name -->
+  <text x="50%" y="150"
+        text-anchor="middle"
+        fill="#00FF7F"
+        font-family="monospace"
+        font-size="60"
+        letter-spacing="10">
+    ADARSH
+  </text>
 
+  <!-- Dual Sword Slash -->
+  <line x1="250" y1="120" x2="750" y2="180"
+        stroke="#00FF7F"
+        stroke-width="3"
+        opacity="0">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </line>
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,cs,java,php,python,rust,go,lua" />
+  <line x1="750" y1="120" x2="250" y2="180"
+        stroke="#00FF7F"
+        stroke-width="2"
+        opacity="0">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="2s"
+             begin="1s"
+             repeatCount="indefinite"/>
+  </line>
 
+  <!-- Tagline -->
+  <text x="50%" y="210"
+        text-anchor="middle"
+        fill="#9EF5CF"
+        font-family="monospace"
+        font-size="20"
+        letter-spacing="3">
+    Code • Linux • AI
+  </text>
 
+  <!-- Animated Divider -->
+  <line x1="200" y1="250" x2="800" y2="250"
+        stroke="#00FF7F"
+        stroke-width="1">
+    <animate attributeName="opacity"
+             values="0.3;1;0.3"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </line>
 
+</svg>
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,sql,react,nodejs,docker,aws" />
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,neovim,vim,vscode,unreal,blender,pr,ae,ps,ai" />
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/DaVinci_Resolve-1a1b26%3Fstyle%3Dfor-the-badge%26logo%3Dblackmagicdesign%26logoColor%3D9052b5%26color%3D000000" alt="DaVinci" />
-
-</div>
-
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D2000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D300%26lines%3DSYSTEM_TELEMETRY" alt="Telemetry" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26bg_color%3D000000" alt="GitHub Stats" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D000000" alt="Top Languages" width="48%" />
-
-</div>
-
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
-
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D16%26pause%3D3000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D>_TARGET_IS_WANDERING_OFF_PATH..." alt="Lost" />
-
-<img src="https://www.google.com/search?q=https://i.pinimg.com/originals/96/cf/5a/96cf5a13c9e9da286b2eb1eab0a726ea.gif" width="100%" alt="Zoro Lost GIF" style="border: 1px solid #052b05;" />
 </div>
