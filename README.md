@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39E09B&center=true&vCenter=true&width=500&lines=>_SYSTEM_ONLINE;>_Code+%E2%80%A2+Linux+%E2%80%A2+AI;>_Fullstack+Developer;." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39E09B&center=true&vCenter=true&width=500&lines=>_SYSTEM_ONLINE;>_Code+%E2%80%A2+Linux+%E2%80%A2+AI;>_Fullstack+Developer;>_Not+a+vibecoder.+Just+a+coder." alt="Typing SVG" />
 
 <br><br>
 
@@ -53,14 +53,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Top Languages" width="48%" />
 </div>
 
-<br>
-<hr>
+---
+
+### 🧭 Wait, where am I...?
 
 <div align="center">
-  <br>
-  <h3 style="color: #39E09B;">>_ CURRENT_STATUS: Searching for the right path... (Still Lost)</h3>
+  <p><i>"I'm not lost. The terminal just keeps changing directories on me."</i></p>
   
-  <img src="https://media.tenor.com/Images/5L4W_O_I4AAAAAj/roronoa-zoro-one-piece.gif" width="100%" style="border-radius: 10px; border: 2px solid #39E09B;" alt="Zoro Lost Again" />
-  <br><br>
-  <p><i>"Searching for bugs, learning new tech, and trying to find my way back to the terminal."</i></p>
+  <img src="https://i.pinimg.com/originals/96/cf/5a/96cf5a13c9e9da286b2eb1eab0a726ea.gif" width="100%" alt="Zoro Lost GIF" style="border-radius: 10px;" />
 </div>
