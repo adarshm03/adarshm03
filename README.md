@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=120&section=header&text=Adarsh%20Malagond&fontSize=40&fontAlignY=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:008000&height=150&section=header&text=Adarsh%20Malagond&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Building.%20Breaking.%20Learning.&descAlignY=55&descSize=15" width="100%" />
 
 <br><br>
 
