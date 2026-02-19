@@ -1,4 +1,4 @@
-<video src="https://github.com/adarshm03/adarshm03/raw/main/banner.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="[https://github.com/adarshm03/adarshm03/raw/main/banner.mp4](https://github.com/user-attachments/assets/8ad1cbdf-a854-4c3f-8455-24fac4b491c1)" autoplay loop muted playsinline width="100%"></video>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
@@ -7,6 +7,10 @@
 ## Connect
 
 <a href="https://www.linkedin.com/in/adarshm287">
+
+
+
+
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:workwithadarsh18@gmail.com">
