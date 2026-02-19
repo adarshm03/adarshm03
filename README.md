@@ -30,8 +30,7 @@ DevOps • Backend • AI • Systems
 adarsh@linux:~$ editor
 Neovim (primary) | VSCode (backup)
 
-adarsh@linux:~$ philosophy
-Build → Break → Optimize
+adarsh@linux:~$ exit
 ```
 ## Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,py,php,rust,go,html,css" />
