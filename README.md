@@ -1,69 +1,67 @@
 <div align="center">
 
-<!-- PREMIUM HERO -->
-<img src="hero.svg" width="100%" alt="Adarsh Premium Banner" />
+<img src="header.svg" width="100%" alt="Adarsh Custom Banner" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF7F&center=true&vCenter=true&width=750&lines=>_SYSTEM_INITIALIZED;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Systems.+Structure.+Precision." />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=>_SYSTEM_BREACH_DETECTED...;>_ACCESS_GRANTED:+Adarsh;>_Code+|+Linux+|+AI;>_Not+a+vibecoder.+Just+a+coder." alt="Typing SVG" />
 
 <a href="https://linktr.ee/adarshmalagond">
-  <img src="https://img.shields.io/badge/CONNECT-00FF7F?style=for-the-badge&logo=linux&logoColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/CONNECT_WITH_ME-000000?style=for-the-badge&logo=linktree&logoColor=00FF00&color=00FF00" alt="Linktree" />
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- GEOMETRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:052b05&height=4&section=header" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## IDENTITY_LOGS
-
-</div>
-
-adarsh@linux:~$ role
-Fullstack Developer | Systems Student
-
-adarsh@linux:~$ direction
-Cloud Engineering
-DevOps Architecture
-AI Systems
-
-adarsh@linux:~$ environment
-Arch/Fedora mindset
-Neovim-first workflow
-
-adarsh@linux:~$ philosophy
-Build it. Break it. Refine it.
-<div align="center">
-ENGINEERING_STACK
-<br> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" /> </div>
-<div align="center">
-CREATIVE_TECH
-<br> <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" />
 <br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=for-the-badge&logo=blender&logoColor=00FF7F" /> <img src="https://img.shields.io/badge/Procedural_Design-000000?style=for-the-badge&logo=blender&logoColor=00FF7F" /> <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" /> <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /> </div>
-<div align="center"> <!-- GEOMETRIC VISUAL BLOCK --> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001a12,100:00FF7F&height=120&section=header&text=PROCEDURAL+MINDSET&fontSize=25&fontColor=00FF7F&animation=fadeIn" width="100%" /> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=39E09B&center=true&vCenter=true&width=300&height=40&lines=IDENTITY_LOGS" alt="Identity" />
+
+</div>
+
+[+] STATUS     : Student and Fullstack Developer
+[+] OBJECTIVE  : Exploring the depths of Code, Linux, and AI
+[+] ARSENAL    : Neovim (The daily driver), VSCode (When required)
+[+] PHILOSOPHY : I learn by building things, and I understand them by breaking them
+
 <div align="center">
-SYSTEM_TELEMETRY
-<br> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adarshmalagond&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalagond&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
-<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmalagond&theme=react-dark&hide_border=true&bg_color=000000&color=00FF7F&line=00FF7F&point=FFFFFF" /> </div>
-<div align="center"> <!-- PREMIUM FOOTER GEOMETRY --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:052b05&height=120&section=footer" width="100%" /> <br>
-SYSTEM_DESIGN > CHAOS
-DISCIPLINE > NOISE
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-</div> 
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D18%26pause%3D2000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D300%26height%3D40%26lines%3DTECH_ARSENAL" alt="Arsenal" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,rust,go,lua" />
+
+
+
+
+<img src="https://skillicons.dev/icons?i=js,html,css,sql,react,nodejs,docker,aws" />
+
+
+
+
+<img src="https://skillicons.dev/icons?i=linux,neovim,vim,vscode,unreal,blender,pr,ae,ps,ai" />
+
+
+
+
+<img src="https://img.shields.io/badge/DaVinci_Resolve-1a1b26?style=for-the-badge&logo=blackmagicdesign&logoColor=9052b5&color=000000" alt="DaVinci" />
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D18%26pause%3D2000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D300%26height%3D40%26lines%3DSYSTEM_TELEMETRY" alt="Telemetry" />
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadarshm03%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF%26icon_color%3D39E09B" alt="GitHub Stats" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadarshm03%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF" alt="Top Languages" width="48%" />
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D16%26pause%3D3000%26color%3D39E09B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26height%3D40%26lines%3D>_WARNING:+UNAUTHORIZED_ENTITY_DETECTED;>_TARGET_IS_WANDERING_OFF_PATH..." alt="Lost" />
+
+<img src="https://i.pinimg.com/originals/96/cf/5a/96cf5a13c9e9da286b2eb1eab0a726ea.gif" width="800" alt="Zoro Lost GIF" style="border-radius: 10px; border: 1px solid #00FF00;" />
+
+<img src="footer.svg" width="100%" alt="Adarsh Custom Footer" style="margin-top: -5px;" />
+
+</div>
