@@ -1,60 +1,40 @@
-<div align="center">
+<img src="hero.svg" width="100%" alt="Adarsh Banner" />
 
-<img src="hero.svg" width="100%" alt="Adarsh Custom Banner" />
+<br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=700&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+Adarsh;>_Code+|+Linux+|+AI;>_Not+a+vibecoder.+Just+a+builder." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
 <br><br>
-
-<a href="https://linktr.ee/adarshmalagond">
-  <img src="https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=00FF00" />
-</a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:workwithadarsh18@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
 <br><br>
 
 ---
 
-<br>
+## 🐧 about_me
 
-<div align="center">
+adarsh@linux:~$ whoami
+Fullstack Developer | Systems Enthusiast
 
-### IDENTITY_LOGS
+adarsh@linux:~$ current_focus
+- Linux-first workflows
+- Backend architecture
+- DevOps automation
+- AI systems exploration
 
-</div>
+adarsh@linux:~$ editor
+Neovim (primary)
+VSCode (when necessary)
 
-<br>
-
-[+] STATUS : Student | Fullstack Developer
-[+] OBJECTIVE : Engineering systems through code, Linux & AI
-[+] ARSENAL : Neovim (Primary) | VSCode (Situational)
-[+] PHILOSOPHY : Build → Break → Refine
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### TECH_ARSENAL
-
-</div>
-
-<br><br>
-
-<div align="center">
-
+adarsh@linux:~$ mindset
+Build → Break → Refactor → Repeat
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" />
 
 <br><br>
@@ -63,62 +43,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=blackmagicdesign&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/After_Effects-000000?style=flat-square&logo=adobeaftereffects&logoColor=00FF00" />
-
-</div>
+<img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" /> <img src="https://img.shields.io/badge/Procedural_Design-000000?style=flat-square&logo=blender&logoColor=00FF00" /> <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=blackmagicdesign&logoColor=00FF00" />
 
 <br><br>
+discipline sharpens the blade
+code sharpens the mind
 
----
-
-<br>
-
-<div align="center">
-
-### SYSTEM_TELEMETRY
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adarshmalagond&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&icon_color=00FF00" />
-
-&nbsp;&nbsp;
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalagond&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmalagond&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" />
-
-</div>
-
-<br><br>
-
----
-
-<br>
-
-<div align="center">
-
-### SIGNAL_END
-
-<br><br>
-
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="75%" style="border-radius:12px; border:1px solid #00FF00;" />
-
-<br><br>
-
-discipline sharpens the blade  
-code sharpens the mind  
-
-</div>
-
-<br>
-
-<img src="footer.svg" width="100%" alt="Adarsh Custom Footer" />
-
+<br> <img src="footer.svg" width="100%" alt="Footer" />
