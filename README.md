@@ -39,7 +39,7 @@
 [+] ARSENAL : Neovim (Primary) | VSCode (Situational)
 [+] PHILOSOPHY : Build → Break → Refine
 
-<br><br>
+<br>
 
 ---
 
