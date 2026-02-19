@@ -1,12 +1,10 @@
-<img src="https://github.com/user-attachments/assets/7313f25e-e581-4be3-9382-fb9087d7323b" width="100%" alt="Adarsh Banner" />
+<img src="https://github.com/user-attachments/assets/d825dce6-967d-4baa-b7ad-c065fd4fa2ad" width="100%" alt="Adarsh Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
 ---
 
 ## Connect
-
-
 <a href="https://www.linkedin.com/in/adarshm287">
 
 
