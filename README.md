@@ -1,116 +1,69 @@
 <div align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:052b05&height=200&section=header&text=ADARSH&fontSize=65&fontAlignY=40&fontColor=00FF00&desc=Building.%20Breaking.%20Learning.&descAlignY=65&descSize=18&animation=twinkling" width="100%" />
 
-  <defs>
+<br>
 
-    <!-- Animated Gradient Background -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#03140E">
-        <animate attributeName="stop-color" values="#03140E;#052b05;#03140E" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#000000">
-        <animate attributeName="stop-color" values="#000000;#001a12;#000000" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Not+a+vibecoder.+Just+a+builder." />
 
-    <!-- Haki Glow -->
-    <radialGradient id="hakiGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00FF7F" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#00FF7F" stop-opacity="0"/>
-    </radialGradient>
+<br><br>
 
-  </defs>
-
-  <!-- Background -->
-  <rect width="1000" height="320" fill="url(#bgGradient)" />
-
-  <!-- Moving Light Sweep -->
-  <rect x="-300" y="0" width="300" height="320" fill="#00FF7F" opacity="0.03">
-    <animate attributeName="x" values="-300;1200" dur="10s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Floating Particles -->
-  <circle cx="100" cy="80" r="2" fill="#00FF7F">
-    <animate attributeName="cx" values="100;900" dur="12s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="300" cy="250" r="2" fill="#00FF7F">
-    <animate attributeName="cy" values="250;100;250" dur="9s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="700" cy="120" r="2" fill="#00FF7F">
-    <animate attributeName="cx" values="700;200;700" dur="11s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Haki Pulse -->
-  <circle cx="500" cy="140" r="90" fill="url(#hakiGlow)">
-    <animate attributeName="r" values="80;115;80" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Name Glow Shadow -->
-  <text x="50%" y="150"
-        text-anchor="middle"
-        fill="#00FF7F"
-        font-family="monospace"
-        font-size="60"
-        letter-spacing="10"
-        opacity="0.15">
-    ADARSH
-  </text>
-
-  <!-- Main Name -->
-  <text x="50%" y="150"
-        text-anchor="middle"
-        fill="#00FF7F"
-        font-family="monospace"
-        font-size="60"
-        letter-spacing="10">
-    ADARSH
-  </text>
-
-  <!-- Dual Sword Slash -->
-  <line x1="250" y1="120" x2="750" y2="180"
-        stroke="#00FF7F"
-        stroke-width="3"
-        opacity="0">
-    <animate attributeName="opacity"
-             values="0;1;0"
-             dur="2s"
-             repeatCount="indefinite"/>
-  </line>
-
-  <line x1="750" y1="120" x2="250" y2="180"
-        stroke="#00FF7F"
-        stroke-width="2"
-        opacity="0">
-    <animate attributeName="opacity"
-             values="0;1;0"
-             dur="2s"
-             begin="1s"
-             repeatCount="indefinite"/>
-  </line>
-
-  <!-- Tagline -->
-  <text x="50%" y="210"
-        text-anchor="middle"
-        fill="#9EF5CF"
-        font-family="monospace"
-        font-size="20"
-        letter-spacing="3">
-    Code • Linux • AI
-  </text>
-
-  <!-- Animated Divider -->
-  <line x1="200" y1="250" x2="800" y2="250"
-        stroke="#00FF7F"
-        stroke-width="1">
-    <animate attributeName="opacity"
-             values="0.3;1;0.3"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </line>
-
-</svg>
+<a href="https://linktr.ee/adarshmalagond">
+  <img src="https://img.shields.io/badge/LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=000000&color=000000" />
+</a>
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+<div align="center">
+
+### IDENTITY_LOGS
+
+</div>
+
+```bash
+adarsh@linux:~$ role
+Fullstack Student
+
+adarsh@linux:~$ focus
+Systems Engineering
+Cloud & DevOps
+Artificial Intelligence
+Creative Development
+
+adarsh@linux:~$ philosophy
+Build. Break. Understand. Repeat.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+TECH_ARSENAL
+<br> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" />
+<br><br>
+
+<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" /> <img src="https://img.shields.io/badge/After_Effects-1A1A3F?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_Suite-2B2B2B?style=for-the-badge&logo=adobe&logoColor=white" /> </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+SYSTEM_TELEMETRY
+<br> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adarshmalagond&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmalagond&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmalagond&theme=react-dark&hide_border=true&bg_color=000000&color=00FF7F&line=00FF7F&point=FFFFFF" /> </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=39E09B&center=true&vCenter=true&width=600&lines=>_WARNING:+ENTITY_LOST;>_TARGET:+SWORDSMAN;>_STATUS:+RECALCULATING_PATH..." />
+<br><br>
+
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="100%" /> </div>
+<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+discipline sharpens the blade
+code sharpens the mind
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div> ```
