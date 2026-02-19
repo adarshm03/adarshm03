@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/d825dce6-967d-4baa-b7ad-c065fd4fa2ad" width="100%" alt="Adarsh Banner" />
-
+<img src="banner2.gif" width="100%" alt="Adarsh Banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF00&center=false&vCenter=true&width=700&lines=>_SYSTEM_BOOT_COMPLETE;>_ACCESS_GRANTED:+adarsh;>_Code+|+Linux+|+AI;>_Building.+Breaking.+Learning." />
 
 ---
