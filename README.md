@@ -13,7 +13,7 @@
 <br>
 
 <details open>
-  <summary><b><h3 style="display:inline;"> 💻 `whoami` (Click to toggle)</h3></b></summary>
+  <summary><b><h3 style="display:inline;"> 💻 `whoami` </h3></b></summary>
   <br>
   
   ```bash
