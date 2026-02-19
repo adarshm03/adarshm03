@@ -4,7 +4,7 @@
 
 ---
 
-## Connect with me:
+## Connect with me
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +18,7 @@
 
 ---
 
-## about
+## About
 
 adarsh@linux:~$ whoami
 Fullstack Developer | Linux-first
@@ -31,10 +31,14 @@ Neovim (primary) | VSCode (backup)
 
 adarsh@linux:~$ philosophy
 Build → Break → Optimize
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" /> <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" /> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" /
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" /> <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" /> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" /
-01 10 01 11 00 10 01 11
-010101001011001010010101
-101010110010110101001011
+Languages and Tools I Know
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,lua,html,css,react,nodejs,aws,linux,git,mysql,postgres" /> <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,blender,figma" /> <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-000000?style=flat-square&logo=blender&logoColor=00FF00" />
+
+░█▀▄░█▀▀░█░█░█▀▀░█▀▀░█▀▄
+░█▀▄░█▀▀░█▀█░█▀▀░█▀▀░█▀▄
+░▀▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀
+
+discipline sharpens the blade
+code sharpens the mind
 <img src="footer.svg" width="100%" />
