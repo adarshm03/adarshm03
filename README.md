@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Adarsh Custom Banner" />
+<img src="hero.svg" width="100%" alt="Adarsh Custom Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=>_SYSTEM_BREACH_DETECTED...;>_ACCESS_GRANTED:+Adarsh;>_Code+|+Linux+|+AI;>_Not+a+vibecoder.+Just+a+coder." alt="Typing SVG" />
 
