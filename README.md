@@ -25,10 +25,10 @@
 
 ```bash
 adarsh@linux:~$ whoami
-Fullstack Developer | Linux-first
+Fullstack Developer | Student
 
 adarsh@linux:~$ focus
-DevOps • Backend • AI • Systems
+webDev • Backend • AI • Systems and how things works and why? ° learning 
 
 adarsh@linux:~$ editor
 Neovim (primary) | VSCode (backup)
